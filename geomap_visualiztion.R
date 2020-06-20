@@ -37,3 +37,4 @@ qmap(location = c(lon = center[1] + 0.01,
              size = 2) +
   scale_color_gradient(low = 'yellow', high = 'red') +
   theme(legend.position = 'None')
+
